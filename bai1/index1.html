@@ -76,5 +76,10 @@
         <div class="right">right</div>
         <div class="footer">footer</div>
     </div>
+    <script>
+        if (window.location.pathname.endsWith("index1.html")) {
+            window.history.pushState({}, '', '/layout/bai-1');
+        }
+    </script>
 </body>
 </html>
