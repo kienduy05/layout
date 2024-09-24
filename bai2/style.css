@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+.container{
+    width:90% ;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding-left:15px;
+    padding-right:15px
+}
+img{
+    width: 200px;
+    float: right;
+    height:250px;
+    position: relative;
+    bottom: 47px;
+    
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.Tieu1{
+    text-align: center;
+}
+
+h2{
+    background-color:aqua;
+    text-transform: capitalize;
+}
